@@ -15,4 +15,4 @@ FSUB_CHANNEL = int(os.environ.get("FSUB_CHANNEL"))
 CHANNEL_LINK = os.environ.get("CHANNEL_LINK")
 
 # remove or add more as per your need
-LIST = ["srt", "txt", "jpg", "jpeg", "png", "torrent", "html", "aio", "pdf", "zip"] 
+LIST = ["srt", "txt", "jpg", "jpeg", "png", "torrent", "html", "aio"] 
