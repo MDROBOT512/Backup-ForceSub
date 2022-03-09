@@ -6,8 +6,8 @@
     "backup",
     "fsub"
   ],
-  "repository": "https://github.com/Arun-TG/Backup-ForceSub",
-  "logo": "https://te.legra.ph/file/afefb63eabdc03e984041.jpg",
+  "repository": "https://github.com/MDROBOT512/Backup-ForceSub",
+  "logo": "https://telegra.ph/file/ff4fc5a2710b998cbd393.jpg",
   "env": {
     "BOT_TOKEN": {
       "description": "Get it from @Botfather",
